@@ -1,0 +1,9 @@
+﻿  ViewManager.cpp
+D:\VSWorkspace\CS330\CS330Content\Projects\4-2_Assignment\Source\ViewManager.cpp(136,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\VSWorkspace\CS330\CS330Content\Projects\4-2_Assignment\Source\ViewManager.cpp(137,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\VSWorkspace\CS330\CS330Content\Projects\4-2_Assignment\Source\ViewManager.cpp(145,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\VSWorkspace\CS330\CS330Content\Projects\4-2_Assignment\Source\ViewManager.cpp(146,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\VSWorkspace\CS330\CS330Content\Projects\4-2_Assignment\Source\ViewManager.cpp(149,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\VSWorkspace\CS330\CS330Content\Projects\4-2_Assignment\Source\ViewManager.cpp(150,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\VSWorkspace\CS330\CS330Content\Projects\4-2_Assignment\Source\ViewManager.cpp(244,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  4-2_Assignment.vcxproj -> D:\VSWorkspace\CS330\CS330Content\Projects\4-2_Assignment\Debug\4-2_Assignment.exe
